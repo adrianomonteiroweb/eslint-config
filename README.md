@@ -2,13 +2,13 @@
 Como configurar eslint em um projeto + regras lint para adequar as necessidades da aplicação.
 
 *Antes de começar*
-- [ ] Garanta que seu NPM está ok em sua máquina para seguir a instalação. 
+- [x] Garanta que seu NPM está ok em sua máquina para seguir a instalação. 
 
 *Instalação*
-- [ ] npm install eslint --save-dev
+- [x] npm install eslint --save-dev
 
 *Confirurando*
-- [ ] npx eslint --init
+- [x] npx eslint --init
 
 ### Aqui começam as configurações do eslint e vou mostrar também a forma como costumo configurar:
 *How would you like to use ESLint? / Como você gostaria de usar o ESLint?*
@@ -53,6 +53,8 @@ Como configurar eslint em um projeto + regras lint para adequar as necessidades 
 - [ ] No
 - [x] Yes
 
-## no arquivo "oculto" chamado ".eslintrc.js" que se encontra neste repositório, você encontrará não apenas o arquivo gerado por esses comandos, mas também as rules: {}. Regras para um ESLint que irá melhorar seu código, e que você pode alterar como quiser. OBS: Essas regras foram implementadas para o estylo ESLint Airbnb!
+## No arquivo "oculto" chamado ".eslintrc.js" que se encontra neste repositório, você encontrará não apenas o arquivo gerado por esses comandos, mas também as rules: {}. Regras para um ESLint que irá melhorar seu código, e que você pode alterar como quiser. 
+
+### OBS: Essas regras foram implementadas para o estylo ESLint Airbnb!
 
 *Basta ao terminar suas configurações subistituir todo o arquivo, ou apenas as rules: {}*
