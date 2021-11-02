@@ -1,4 +1,4 @@
-# ESLint-config: Como configurar eslint em um projeto + regras lint para adequar as necessidades da aplicação.
+# ESLint-config: Como configurar o ESLint em um projeto + regras lint para adequar as necessidades da aplicação.
 
 *Antes de começar*
 - [ ] Garanta que seu NPM está ok em sua máquina para seguir a instalação.
