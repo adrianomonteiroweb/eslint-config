@@ -18,7 +18,7 @@
 ### Aqui começam as configurações do eslint e vou mostrar também a forma como costumo configurar:
 *How would you like to use ESLint? / Como você gostaria de usar o ESLint?*
 
-![use eslint](./images/eslint1.png)
+![use eslint](./images/eslint01.png)
 
 - [ ] To check syntax only / Verificar apenas a sintaxe.
 - [ ] To check syntax and find problems / Verificar a sintaxe e encontrar problemas.
