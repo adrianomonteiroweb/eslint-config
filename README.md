@@ -61,6 +61,8 @@
 - [ ] Answer questions about your style / Responda perguntas sobre o seu estilo.
 - [ ] Inspect your JavaScript file(s) / Inspecione seus arquivos JavaScript.
 
+### OBS: Caso as opções de estilo do ESLint a seguir não apareça, prossiga com a instalação até o fim e reinicie a configuração com o comando: "npx eslint --init".
+
 *Which style guide do you want to follow? / Qual guia de estilo você deseja seguir?*
 
 ![use eslint](./images/eslint7.png)
