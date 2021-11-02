@@ -89,7 +89,7 @@
 
 ![use eslint](./images/eslint10.png)
 
-## No arquivo oculto chamado *.eslintrc.js* que se encontra neste repositório, você encontrará não apenas o arquivo gerado por essa configuração, mas também as rules: {}. Regras para um ESLint que irá melhorar seu código e que você pode alterar como quiser.
+### No arquivo oculto chamado ".eslintrc.js" que se encontra neste repositório, você encontrará não apenas o arquivo gerado por essa configuração, mas também as rules: {}. Regras para um ESLint que irá melhorar seu código e que você pode alterar como quiser.
 
 #### OBS: Essas regras foram implementadas para o estylo ESLint Airbnb!
 
