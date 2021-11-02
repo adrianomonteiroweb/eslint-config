@@ -1,5 +1,4 @@
-# ESLint-config
-*Como configurar eslint em um projeto + regras lint para adequar as necessidades da aplicação.*
+# ESLint-config: Como configurar eslint em um projeto + regras lint para adequar as necessidades da aplicação.
 
 *Antes de começar*
 - [ ] Garanta que seu NPM está ok em sua máquina para seguir a instalação.
@@ -10,7 +9,7 @@
  npm install eslint --save-dev
 ```
 
-*Confirurando*
+*Configurando*
 - [ ] Use o comando abaixo para iniciar a configuração de seu ESLint.
 ```
  npx eslint --init
@@ -85,6 +84,8 @@
 
 - [ ] No.
 - [x] Yes.
+
+*Ao exibir a mensagem a seguir, seu ESint foi configurado corretamente!*
 
 ![use eslint](./images/eslint10.png)
 
