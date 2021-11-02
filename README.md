@@ -85,7 +85,7 @@
 - [ ] No.
 - [x] Yes.
 
-*Ao exibir a mensagem a seguir, seu ESint foi configurado corretamente!*
+*Ao exibir a mensagem a seguir, seu ESLint foi configurado corretamente!*
 
 ![use eslint](./images/eslint10.png)
 
