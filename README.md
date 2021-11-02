@@ -18,7 +18,7 @@
 ### Aqui começam as configurações do eslint e vou mostrar também a forma como costumo configurar:
 *How would you like to use ESLint? / Como você gostaria de usar o ESLint?*
 
-![use eslint](./images/eslint1.png)
+![use eslint](./images/eslint01.png)
 
 - [ ] To check syntax only / Verificar apenas a sintaxe.
 - [ ] To check syntax and find problems / Verificar a sintaxe e encontrar problemas.
@@ -60,6 +60,8 @@
 - [x] Use a popular style guide / Use um guia de estilo popular.
 - [ ] Answer questions about your style / Responda perguntas sobre o seu estilo.
 - [ ] Inspect your JavaScript file(s) / Inspecione seus arquivos JavaScript.
+
+### OBS: Caso as opções de estilo do ESLint a seguir não apareça, prossiga com a instalação até o fim e reinicie a configuração com o comando: "npx eslint --init".
 
 *Which style guide do you want to follow? / Qual guia de estilo você deseja seguir?*
 
