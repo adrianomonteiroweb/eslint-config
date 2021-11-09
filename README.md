@@ -91,8 +91,16 @@
 
 ![use eslint](./images/eslint10.png)
 
-### No arquivo oculto chamado ".eslintrc.js" que se encontra neste repositório, você encontrará não apenas o arquivo gerado por essa configuração, mas também as rules: {}. Regras para um ESLint que irá melhorar seu código e que você pode alterar como quiser. Aconselho que copie todo o seu conteúdo e substitua pelo gerado na configuração.
+#### No arquivo oculto chamado ".eslintrc.js" que se encontra neste repositório, você encontrará não apenas o arquivo gerado por essa configuração, mas também as rules: {}. Regras para um ESLint que irá melhorar seu código e que você pode alterar como quiser. Aconselho que copie todo o seu conteúdo e substitua pelo gerado na configuração.
 
 #### OBS: Essas regras foram implementadas para o estylo ESLint Airbnb!
 
 *Basta ao terminar suas configurações subistituir todo o arquivo, ou apenas as rules: {}*
+
+
+<div>
+  <h2>Dica de extensão no VScode:</h2>
+  <p><i>Você pode utilizar junto a essa configuração as extensões <span>ESLint</span> e/ou <span>Error Lens</span>. Sim, é possível usar as duas sem conflitos, porém, para alguns projetos a extensão Premire pode conflitar com a ESLint. Atenção para esse detalhe.</i></p>
+  <a href="https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint" target="_blank">ESLint</a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens" target="_blank">Error Lens</a>
+</div>
