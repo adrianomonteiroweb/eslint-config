@@ -103,3 +103,43 @@
   <p>Pesquise a extensão ESLint na sessão de extensões em seu VScode ou clique <a href="https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint" target="_blank">Aqui</a></p>
   <p>Pesquise a extensão Error Lens na sessão de extensões em seu VScode ou clique <a href="https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens" target="_blank">Aqui</a></p>
 </div>
+
+<div>
+  <table>
+    <thead>
+      <tr>
+        <th>Autor</th>
+        <th colspan="2">Contribuições</th>
+      </tr>
+    </thhead>
+    <tbody>
+      <tr>
+        <td><img src="https://avatars.githubusercontent.com/u/47261292?v=4" alt="Adriano Monteiro" width="100x" /></td>
+        <td><img src="https://avatars.githubusercontent.com/u/83843144?v=4" alt="Marcelo Pantoja" width="100x" /></td>
+        <td><img src="https://avatars.githubusercontent.com/u/66140620?v=4" alt="Ivan" width="100x" /></td>
+      </tr>
+      <tr>
+        <td style="text-align: center">
+          <a href="https://www.linkedin.com/in/adrianomonteiroweb/" target="_blank">Adriano Monteiro</a>
+        </td>
+        <td style="text-align: center">
+          <a href="https://www.linkedin.com/in/marcelo-pantoja-a71a97112/" target="_blank">Marcelo Pantoja</a>
+        </td>
+        <td style="text-align: center">
+          <a href="https://www.linkedin.com/in/ivan-silva-4ba014221/" target="_blank">Ivan</a>
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center">
+          <a href="https://www.linkedin.com/in/adrianomonteiroweb/" target="_blank">LinkedIn</a>
+        </td>
+        <td style="text-align: center">
+          <a href="https://github.com/Pantoja42" target="_blank">GitHub</a>
+        </td>
+        <td style="text-align: center">
+          <a href="https://github.com/Ivandosss" target="_blank">GitHub</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
