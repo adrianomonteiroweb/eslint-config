@@ -99,7 +99,7 @@
 
 <div>
   <h2>Dica de extensão no VScode:</h2>
-  <p><i>Você pode utilizar junto a essa configuração as extensões <span>ESLint</span> e/ou <span>Error Lens</span>. Sim, é possível usar as duas sem conflitos, porém, para alguns projetos a extensão Premire pode conflitar com a ESLint. Atenção para esse detalhe.</i></p>
+  <p><i>Você pode utilizar junto a essa configuração as extensões <span>ESLint</span> e/ou <span>Error Lens</span>. Sim, é possível usar as duas sem conflitos, porém, para alguns projetos a extensão Prettier pode conflitar com a ESLint. Atenção para esse detalhe.</i></p>
   <p>Pesquise a extensão ESLint na sessão de extensões em seu VScode ou clique <a href="https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint" target="_blank">Aqui</a></p>
   <p>Pesquise a extensão Error Lens na sessão de extensões em seu VScode ou clique <a href="https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens" target="_blank">Aqui</a></p>
 </div>
