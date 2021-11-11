@@ -32,6 +32,7 @@
 - [ ] JCommonJS (require/exports).
 
 *Which framework does your project use? / Qual framework seu projeto usa?*
+*OBS: Para um projeto sem framework, basta escolher a opção: None of these.*
 
 ![use eslint](./images/eslint3.png)
 
