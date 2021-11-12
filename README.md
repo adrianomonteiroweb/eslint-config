@@ -92,11 +92,10 @@
 
 ![use eslint](./images/eslint10.png)
 
-#### No arquivo oculto chamado ".eslintrc.js" que se encontra neste repositório, você encontrará não apenas o arquivo gerado por essa configuração, mas também as rules: {}. Regras para um ESLint que irá melhorar seu código e que você pode alterar como quiser. Aconselho que copie todo o seu conteúdo e substitua pelo gerado na configuração.
-
-#### OBS: Essas regras foram implementadas para o estylo ESLint Airbnb!
-
-*Basta ao terminar suas configurações subistituir todo o arquivo, ou apenas as rules: {}*
+<div>
+  <p>Sua configuração já gerou, se tudo deu certo, um arquivo ".eslintrc.js" no diretório raiz de seu projeto. E essa configuração já apresentará aplicação de regras em seu código. Porém, caso queira aplicar regras que irão forçar ainda mais uma melhor escrita de código. Abra o arquivo e aplique suas rules ou siga para a próxima instrução para adicionar as rules desse repositório.</p>
+  <p>No arquivo oculto chamado ".eslintrc.js" que se encontra neste repositório, você encontrará não apenas o arquivo gerado por essa configuração, mas também as rules: {}. Regras para um ESLint que irá melhorar seu código e que você pode alterar como quiser. Aconselho que copie todo o seu conteúdo e substitua pelo gerado na configuração, no caso de uma aplicação ReactJS e ESLint Airbnb ou copie e cole as rules e edite de acordo as suas necessidades.</p>
+</div>
 
 <div>
   <h2>Dica de extensão no VScode:</h2>
